@@ -1,0 +1,39 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+section#puzzle {
+  
+}
+
+#puzzle {
+  width:416px;
+  margin:0 auto;
+}
+
+.card {
+  display:inline-block;
+  color:grey;
+  text-align:center;
+  width:100px;
+  height:100px;
+  border:2px solid white;
+  background-color:grey;
+  line-height:90px;
+}
+
+.card.clicked {color:white;}
+
+.card:hover {
+  /*background-color:red;*/
+}
+
+.card.win {background-color:green;color:white;}
