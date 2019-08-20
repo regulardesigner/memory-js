@@ -1,5 +1,5 @@
 // in the array above add the name of your images
-let puzzleImages = ["one","two","three","four","five","six","seven","height","one","two","three","four","five","six","seven","height"];
+let puzzleImages = ["one","two","three","four","five","six","seven","height"];
 // the two variables firstCard and secondCard are used for the card matching
 let firstCard;
 let secondCard;
