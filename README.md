@@ -1,4 +1,4 @@
-# The memory Game
+# The Memory Game
 
 A really simple javaScript memory game. _For now it's just the logic._ 
 
